@@ -1,0 +1,77 @@
+Added Component: Designator=J6(787928-7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tycoelectronics.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ecommas.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F787928%7FE%7Fpdf%7FEnglish%7FENG_CD_787928_E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://catalog.tycoelectronics.com/TE/docs/cadgeo/2/25/41522.tar.gz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "13-Jan-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Corresponds to nominal value."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Series III"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "13-Jan-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "787928-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=POT2 Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=POT4 Pin=J6-4
+Added Pin To Net: NetName=ENCA-1 Pin=J6-5
+Added Pin To Net: NetName=ENCA-2 Pin=J6-6
+Added Pin To Net: NetName=ENCA-3 Pin=J6-7
+Added Pin To Net: NetName=ENCA-4 Pin=J6-8
+Added Pin To Net: NetName=POSLIM1 Pin=J6-9
+Added Pin To Net: NetName=POSLIM2 Pin=J6-10
+Added Pin To Net: NetName=ENCB-1 Pin=J6-13
+Added Pin To Net: NetName=ENCB-2 Pin=J6-14
+Added Pin To Net: NetName=ENCB-3 Pin=J6-15
+Added Pin To Net: NetName=ENCB-4 Pin=J6-16
+Added Pin To Net: NetName=HOME1 Pin=J6-17
+Added Pin To Net: NetName=HOME2 Pin=J6-18
+Added Pin To Net: NetName=ENCI-4 Pin=J6-22
+Added Pin To Net: NetName=VCC Pin=J6-23
+Added Pin To Net: NetName=VCC Pin=J6-25
+Added Pin To Net: NetName=VCC Pin=J6-27
+Added Pin To Net: NetName=VCC Pin=J6-29
+Added Pin To Net: NetName=NetFB1_1 Pin=J6-31
+Added Pin To Net: NetName=NetFB1_1 Pin=J6-32
+Added Pin To Net: NetName=NetFB1_1 Pin=J6-33
+Added Pin To Net: NetName=GND Pin=J6-34
+Added Pin To Net: NetName=POT1 Pin=J6-35
+Added Pin To Net: NetName=GND Pin=J6-36
+Added Pin To Net: NetName=POT3 Pin=J6-37
+Added Pin To Net: NetName=GND Pin=J6-38
+Added Pin To Net: NetName=ENCA+1 Pin=J6-39
+Added Pin To Net: NetName=ENCA+2 Pin=J6-40
+Added Pin To Net: NetName=ENCA+3 Pin=J6-41
+Added Pin To Net: NetName=ENCA+4 Pin=J6-42
+Added Pin To Net: NetName=POSLIM4 Pin=J6-44
+Added Pin To Net: NetName=NEGLIM3 Pin=J6-45
+Added Pin To Net: NetName=NEGLIM4 Pin=J6-46
+Added Pin To Net: NetName=ENCB+1 Pin=J6-47
+Added Pin To Net: NetName=ENCB+2 Pin=J6-48
+Added Pin To Net: NetName=ENCB+3 Pin=J6-49
+Added Pin To Net: NetName=ENCB+4 Pin=J6-50
+Added Pin To Net: NetName=HOME3 Pin=J6-51
+Added Pin To Net: NetName=HOME4 Pin=J6-52
+Added Pin To Net: NetName=ENCI+4 Pin=J6-56
+Added Pin To Net: NetName=AGND Pin=J6-57
+Added Pin To Net: NetName=AGND Pin=J6-58
+Added Pin To Net: NetName=GND Pin=J6-59
+Added Pin To Net: NetName=AGND Pin=J6-60
+Added Pin To Net: NetName=GND Pin=J6-61
+Added Pin To Net: NetName=GND Pin=J6-62
+Added Pin To Net: NetName=GND Pin=J6-63
+Added Pin To Net: NetName=GND Pin=J6-64
+Added Pin To Net: NetName=GND Pin=J6-65
+Added Pin To Net: NetName=GND Pin=J6-66
+Added Pin To Net: NetName=GND Pin=J6-67
+Added Pin To Net: NetName=GND Pin=J6-68
+Added Pin To Net: NetName=GND Pin=J6-69
+Added Pin To Net: NetName=GND Pin=J6-70
+Added Member To Class: ClassName=Sheet1 Member=Component J6 787928-7
