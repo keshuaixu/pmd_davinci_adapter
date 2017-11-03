@@ -1,0 +1,26 @@
+Remove Pin=J5A-1 From Net=POT1
+Remove Pin=J5A-9 From Net=POSLIM4
+Remove Pin=J5A-10 From Net=NEGLIM3
+Remove Pin=J5A-11 From Net=NEGLIM4
+Remove Pin=J5B-16 From Net=POT3
+Remove Pin=J5B-18 From Net=ENCI+4
+Remove Pin=J5B-19 From Net=ENCI-4
+Remove Pin=J5B-25 From Net=POSLIM1
+Remove Pin=J5B-26 From Net=POSLIM2
+Remove Pin=J5B-28 From Net=HOME1
+Remove Pin=J5B-29 From Net=HOME2
+Remove Pin=J5C-43 From Net=HOME3
+Remove Pin=J5C-44 From Net=HOME4
+Add Pin To Net: Pin=J5A-11 Old Net=NEGLIM4 New Net=POSLIM2
+Add Pin To Net: Pin=J5B-18 Old Net=ENCI+4 New Net=ENCI-4
+Add Pin To Net: Pin=J5B-19 Old Net=ENCI-4 New Net=ENCI+4
+Add Pin To Net: Pin=J5B-20 Old Net=NetJ5_20 New Net=POT3
+Add Pin To Net: Pin=J5B-21 Old Net=NetJ5_21 New Net=POT1
+Add Pin To Net: Pin=J5B-26 Old Net=POSLIM2 New Net=HOME4
+Add Pin To Net: Pin=J5B-27 Old Net=NetJ5_27 New Net=HOME3
+Add Pin To Net: Pin=J5B-28 Old Net=HOME1 New Net=POSLIM1
+Add Pin To Net: Pin=J5B-29 Old Net=HOME2 New Net=NEGLIM3
+Add Pin To Net: Pin=J5C-40 Old Net=NetJ5_40 New Net=HOME2
+Add Pin To Net: Pin=J5C-41 Old Net=NetJ5_41 New Net=HOME1
+Add Pin To Net: Pin=J5C-43 Old Net=HOME3 New Net=NEGLIM4
+Add Pin To Net: Pin=J5C-44 Old Net=HOME4 New Net=POSLIM4
