@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\Keshuai\Desktop\pmd_davinci_adapter\PCB1.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=MinimumAnnularRing|RuleName=ignore|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance-polygonpolygon|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_outlinepolygon|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Stitching GND|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=BoardEdge|Scope=Board|Minimum=15.75
